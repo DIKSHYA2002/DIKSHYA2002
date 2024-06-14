@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭i am a full stack developer<br>🖊️currently in my 4th year<br>🦋I am currently learning MERN,MEAN
+🔭i am a full stack developer , CSE BTECH 2024
 
 
 ## 🌐 Socials:
